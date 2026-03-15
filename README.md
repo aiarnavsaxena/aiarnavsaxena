@@ -1,5 +1,9 @@
-# 💫 About Me:
-I am a Data Scientist with a strong analytical background and a passion for deriving actionable insights from data. Skilled in Python, and SQL, with experience in Machine Learning and statistical analysis. Experienced in Developing predictive models and deploying data-driven solutions  to solve complex business problems.<br><br>Skillset:<br>1) Data Science & Analytics:<br>Proficient in data wrangling, statistical analysis, and exploratory data analysis using Python, Pandas, NumPy, and Seaborn.<br><br>2) Machine Learning & Deep Learning:<br>Skilled in building and deploying ML/DL models using Scikit-learn, TensorFlow, and Keras for regression, classification, and neural network tasks.<br><br>3) Natural Language Processing (NLP):<br>Hands-on experience in text preprocessing, sentiment analysis, and language modeling with tools like NLTK, spaCy, and Transformers.<br><br>4) Data Visualization & BI Tools:<br>Expert in visual storytelling using Matplotlib, Seaborn, and Power BI to drive insights and support data-driven decision-making.<br><br>5)  Cloud & Deployment (AWS):<br>Familiar with deploying data science solutions on AWS (S3, EC2, Lambda), and managing scalable ML workflows in the cloud.
+👋 Hi, I’m Arnav Saxena (@aiarnavsaxena)
+
+🎓 I have completed my Bachelor of Computer Applications (BCA) from **Maharaja Agrasen Himalayan Garhwal University in **Uttarakhand, India.
+💼 My academic background helped me build a strong foundation in computer science, programming, and data-related technologies.
+
+📫 Reach me at arnavsaxena153@gmail.com
 
 
 ## 🌐 Socials:
